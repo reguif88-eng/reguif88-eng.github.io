@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.brunosantostecno.calctudo",
+      "sha256_cert_fingerprints": [
+        "7A:76:18:0D:2F:CE:4F:7B:27:43:95:BF:55:88:3D:40:C1:E6:71:A6:A4:4A:1D:3D:02:E2:7F:A8:AA:2E:0B:75"
+      ]
+    }
+  }
+]
